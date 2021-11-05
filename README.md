@@ -1,2 +1,1 @@
-# SQLApp-Database
-save data in android with power of sqlite
+SQLite App that lets you save your stuff for easy onestop shopcto findcsaved data
