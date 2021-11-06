@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"> LT SQLite</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="_07xxx_xxx_xx">07xxx xxx xx</string>
+    <string name="name">Name</string>
+    <string name="brian">Brian</string>
+    <string name="x_gmail_com">x@gmail.com</string>
+    <string name="add_data">Add Data</string>
+    <string name="show_all">Show All</string>
+    <string name="id">ID</string>
+    <string name="xxxx_xxxx">xxxx xxxx</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="logic_technologies_enabling_your_world">Logic Technologies ...Enabling your world</string>
+    <string name="sqlite_logo">sqlite logo</string>
+    <string name="logic_technologies_enabling_saving_your_world">Logic Technologies...Enabling saving your world</string>
+    <string name="database">DATABASE</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
